@@ -1,375 +1,115 @@
+<h1 align="center">🚀 Parijat Dutta</h1>
+<h3 align="center">Full Stack Developer | AI/ML Enthusiast</h3>
+<h4 align="center">Kolkata, India · +91 6360421661</h4>
+
 <div align="center">
-  
-# 🚀 Parijat Dutta - Portfolio Website
-
-### Modern Full Stack Developer Portfolio
-
-[![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.11-38B2AC.svg)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-6.2.2-646CFF.svg)](https://vitejs.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-_A sleek, responsive portfolio showcasing Full Stack development expertise and AI/ML passion_
-
-[View Live Demo](#) • [Report Bug](../../issues) • [Request Feature](../../issues)
-
+  <a href="[LINKEDIN_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="[GITHUB_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:parijatdutta100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="[LEETCODE_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="[PORTFOLIO_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
 ---
 
-## 📋 Table of Contents
+### 👨‍💻 Professional Summary
 
-- [✨ Features](#-features)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🚀 Quick Start](#-quick-start)
-- [📁 Project Structure](#-project-structure)
-- [🎨 Customization](#-customization)
-- [🚀 Deployment](#-deployment)
-- [🧪 Development](#-development)
-- [📱 Browser Support](#-browser-support)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [👤 Contact](#-contact)
+B.Tech CSE (AI & ML) student passionate about building full-stack solutions. Experienced in developing responsive web applications with modern stacks. Focused on solving real-world problems through clean code and innovative approaches.
 
 ---
 
-## ✨ Features
+### 🚀 Work Experience
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 **Design & UX**
-
-- ✅ **Modern Design** - Clean, professional layout
-- ✅ **Fully Responsive** - Mobile, tablet, desktop optimized
-- ✅ **Dark Mode** - Complete theme switching support
-- ✅ **Smooth Animations** - Fade-in effects & hover interactions
-- ✅ **Custom Branding** - Blue-purple gradient design system
-
-</td>
-<td width="50%">
-
-### ⚡ **Performance**
-
-- ✅ **Lightning Fast** - Optimized Vite build
-- ✅ **SEO Ready** - Meta tags & semantic HTML
-- ✅ **Accessible** - WCAG compliant components
-- ✅ **Type Safe** - Full TypeScript implementation
-- ✅ **Modern Stack** - Latest React patterns
-
-</td>
-</tr>
-</table>
-
-### 📖 **Portfolio Sections**
-
-| Section               | Description                                 | Status                   |
-| --------------------- | ------------------------------------------- | ------------------------ |
-| 🏠 **Hero**           | Name, title, contact with animated gradient | ✅ Complete              |
-| 👨‍💻 **About**          | Professional summary and passion statement  | ✅ Complete              |
-| 💼 **Experience**     | Work history with live project links        | ✅ Complete              |
-| 🛠️ **Projects**       | Portfolio showcase with tech stacks         | ✅ Complete              |
-| ⚡ **Skills**         | Categorized technical expertise             | ✅ Complete              |
-| 🎓 **Education**      | Academic background and achievements        | ✅ Complete              |
-| 🏆 **Certifications** | Professional certificates with verification | ✅ Complete              |
-| 📊 **GitHub Stats**   | Contribution graphs and statistics          | 🔄 Ready for integration |
+| Position                 | Project                                       | Duration            | Technologies          | Key Contributions                                                                                                                                                            |
+| ------------------------ | --------------------------------------------- | ------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Full Stack Developer** | [School Website]([SCHOOL_WEBSITE_LINK])       | Aug 2023 - Sep 2023 | WordPress, PHP, MySQL | • Developed responsive site with custom admin panel<br>• Integrated dynamic content modules (notices/results/gallery)<br>• Created user-friendly CMS for non-technical staff |
+| **Web Developer**        | [NGO Consultancy Website]([NGO_WEBSITE_LINK]) | Jun 2023 - Jul 2023 | WordPress, PHP        | • Built service-oriented website<br>• Developed custom admin panel<br>• Implemented content management system                                                                |
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-<div align="center">
+#### Frontend
 
-### Frontend
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+</div>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+#### Backend & Databases
 
-### UI Components
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+</div>
 
-![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
-![Lucide](https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white)
+#### Tools & Platforms
 
-### Development Tools
-
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </div>
 
 ---
 
-## 🚀 Quick Start
+### 🎓 Education
 
-### Prerequisites
-
-Make sure you have the following installed:
-
-- **Node.js** (v16 or higher) - [Download](https://nodejs.org/)
-- **npm** / **yarn** / **pnpm** - Package manager
-
-### Installation
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-   cd portfolio-website
-   ```
-
-2. **Install dependencies**
-
-   ```bash
-   # Using npm
-   npm install
-
-   # Using yarn
-   yarn install
-
-   # Using pnpm
-   pnpm install
-   ```
-
-3. **Start development server**
-
-   ```bash
-   # Using npm
-   npm run dev
-
-   # Using yarn
-   yarn dev
-
-   # Using pnpm
-   pnpm dev
-   ```
-
-4. **Open in browser**
-   ```
-   🌐 Local:   http://localhost:5173
-   🌐 Network: http://[your-ip]:5173
-   ```
+| Degree                      | Institution                    | Duration    | Performance |
+| --------------------------- | ------------------------------ | ----------- | ----------- |
+| **B.Tech in CSE (AI & ML)** | Narula Institute of Technology | 2022 - 2026 | CGPA: 7.8   |
+| **Higher Secondary**        | Begampur High School           | 2020 - 2022 | 90%         |
+| **Secondary**               | Begampur High School           | 2020        | 74%         |
 
 ---
 
-## 📁 Project Structure
+### 🔥 Featured Projects
 
-```
-📦 portfolio-website
-├── 📂 public/
-│   ├── 🖼️ placeholder.svg
-│   └── 🤖 robots.txt
-├── 📂 src/
-│   ├── 📂 components/ui/        # 🎨 Reusable UI components
-│   │   ├── 🏷️ badge.tsx
-│   │   ├── 🔘 button.tsx
-│   │   ├── 🃏 card.tsx
-│   │   └── ... (40+ components)
-│   ├── 📂 hooks/               # 🪝 Custom React hooks
-│   ├── 📂 lib/                 # 🛠️ Utility functions
-│   │   └── ⚙️ utils.ts
-│   ├── 📂 pages/               # 📄 Page components
-│   │   ├── 🏠 Index.tsx        # Portfolio homepage
-│   │   └── ❌ NotFound.tsx
-│   ├── 📱 App.tsx              # Main app component
-│   ├── 🎨 index.css            # Global styles
-│   └── 🚀 main.tsx             # App entry point
-├── ⚙️ tailwind.config.ts       # Tailwind configuration
-├── 📦 package.json
-└── 📖 README.md
-```
+| Project                             | Technologies                          | Links                                                                       |
+| ----------------------------------- | ------------------------------------- | --------------------------------------------------------------------------- |
+| **My Portfolio**                    | HTML, CSS, JavaScript, TypeScript     | [Live Demo]([PORTFOLIO_LINK]) \| [Source Code]([PORTFOLIO_GITHUB_LINK])     |
+| **Full Stack Service Booking App**  | React, Vite, TypeScript, Tailwind CSS | [Live Demo]([BOOKING_APP_LINK]) \| [Source Code]([BOOKING_APP_GITHUB_LINK]) |
+| **JIS College Competition Project** | PHP, MySQL, JavaScript                | [Demo]([JIS_PROJECT1_LINK]) \| [Source]([JIS_PROJECT1_GITHUB_LINK])         |
+| **IoT Water Tank Management**       | Arduino, Sensors                      | [Documentation]([IOT_CERT_LINK])                                            |
 
 ---
 
-## 🎨 Customization
+### 📜 Certifications & Training
 
-### 👤 Personal Information
-
-Edit `src/pages/Index.tsx` to customize:
-
-```typescript
-// 📧 Contact Information
-const contactInfo = {
-  email: "your-email@gmail.com",
-  phone: "+91 XXXXXXXXXX",
-  location: "Your City, Country",
-};
-
-// 💼 Professional Experience
-const experience = [
-  {
-    role: "Your Role",
-    project: "Project Name",
-    url: "https://your-project.com",
-    timeline: "Start – End Date",
-    tech: "Tech Stack",
-    description: "What you accomplished",
-  },
-];
-```
-
-### 🎨 Design System
-
-Customize colors in `src/index.css`:
-
-```css
-:root {
-  /* 🎨 Brand Colors */
-  --brand-500: 231 75% 65%; /* Primary brand color */
-  --brand-600: 226 71% 40%; /* Darker variant */
-
-  /* 🌈 Tech Stack Colors */
-  --tech-react: 195 100% 42%;
-  --tech-typescript: 211 60% 45%;
-}
-```
-
-### 🧩 Components
-
-All UI components are located in `src/components/ui/` and are:
-
-- 🔒 **Type-safe** with TypeScript
-- ♿ **Accessible** with Radix UI primitives
-- 🎨 **Customizable** with Tailwind classes
-- 📏 **Consistent** with the design system
+- [IoT-based Smart Water Tank Management System]([IOT_CERT_LINK])
+- [Python with Django]([DJANGO_CERT_LINK])
+- [Programming Using Java]([JAVA_CERT_LINK])
+- [Fundamentals of Artificial Intelligence]([AI_CERT_LINK])
+- **Google Cloud Skills Boost**: Compute Engine, IAM, BigQuery, Kubernetes ([Profile]([GOOGLE_CLOUD_LINK]))
 
 ---
 
-## 🚀 Deployment
-
-### 🏗️ Build for Production
-
-```bash
-npm run build
-```
-
-### 🌐 Deploy to Popular Platforms
-
-<details>
-<summary><strong>🟢 Netlify</strong></summary>
-
-1. Connect your GitHub repository to Netlify
-2. Set build command: `npm run build`
-3. Set publish directory: `dist`
-4. Deploy automatically on push
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/your-username/portfolio-website)
-
-</details>
-
-<details>
-<summary><strong>▲ Vercel</strong></summary>
-
-1. Connect your GitHub repository to Vercel
-2. Framework preset: **Vite**
-3. Deploy automatically on push
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/your-username/portfolio-website)
-
-</details>
-
-<details>
-<summary><strong>📄 GitHub Pages</strong></summary>
-
-1. Enable GitHub Pages in repository settings
-2. Set source to **GitHub Actions**
-3. The built files will be deployed automatically
-
-</details>
-
----
-
-## 🧪 Development
-
-### 📋 Available Scripts
-
-| Command              | Description                  |
-| -------------------- | ---------------------------- |
-| `npm run dev`        | 🚀 Start development server  |
-| `npm run build`      | 🏗️ Build for production      |
-| `npm run test`       | 🧪 Run test suite            |
-| `npm run typecheck`  | 🔍 TypeScript validation     |
-| `npm run format.fix` | ✨ Format code with Prettier |
-
-### 🧪 Testing
-
-```bash
-# Run all tests
-npm test
-
-# Run tests in watch mode
-npm test -- --watch
-```
-
-### 🔍 Type Checking
-
-```bash
-npm run typecheck
-```
-
----
-
-## 📱 Browser Support
-
-| Browser    | Supported Versions |
-| ---------- | ------------------ |
-| 🌐 Chrome  | Latest ✅          |
-| 🦊 Firefox | Latest ✅          |
-| 🧭 Safari  | Latest ✅          |
-| 🔷 Edge    | Latest ✅          |
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. 🍴 **Fork** the repository
-2. 🌿 **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. 💾 **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. 📤 **Push** to the branch (`git push origin feature/amazing-feature`)
-5. 🔄 **Open** a Pull Request
-
-### 📝 Development Guidelines
-
-- Follow the existing code style
-- Add tests for new features
-- Update documentation as needed
-- Ensure all checks pass
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License - Feel free to use this project for your own portfolio!
-```
-
----
-
-## 👤 Contact
+### 📊 GitHub Stats
 
 <div align="center">
-
-### 🚀 **Parijat Dutta**
-
-_Full Stack Developer • AI/ML Enthusiast_
-
-[![Email](https://img.shields.io/badge/Email-parijatdutta100%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parijatdutta100@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%206360421661-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916360421661)
-[![Location](https://img.shields.io/badge/Location-Kolkata,%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Kolkata,India)
-
----
-
-### 🌟 **Show your support**
-
-Give a ⭐️ if this project helped you!
-
-_Built with ❤️ using React, TypeScript, and Tailwind CSS_
-
+  <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
+    <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="160">
+  </a>
+  <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160">
+  </a>
 </div>
