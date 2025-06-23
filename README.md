@@ -16,7 +16,7 @@
 <div align="center">
 
 <!-- Location and Contact -->
-<img src="https://img.shields.io/badge/📍%20Location-Kolkata,%20India-blue?style=for-the-badge&labelColor=1e293b&color=3b82f6"/>
+<img src="https://img.shields.io/badge/📍%20Location-Begampur,%20Hooghly,%20West%20Bengal-blue?style=for-the-badge&labelColor=1e293b&color=3b82f6"/>
 <img src="https://img.shields.io/badge/📞%20Phone-+91%206360421661-green?style=for-the-badge&labelColor=1e293b&color=10b981"/>
 
 </div>
@@ -25,20 +25,20 @@
 
 <div align="center">
 
-<!-- Social Links with Hover Effects -->
-<a href="[LINKEDIN_URL]" target="_blank">
+<!-- Social Links with Real URLs -->
+<a href="https://linkedin.com/in/parijat-dutta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
 </a>
-<a href="[GITHUB_URL]" target="_blank">
+<a href="https://github.com/parijatdutta" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
 </a>
 <a href="mailto:parijatdutta100@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail" />
 </a>
-<a href="[LEETCODE_URL]" target="_blank">
+<a href="https://leetcode.com/parijatdutta" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" />
 </a>
-<a href="[PORTFOLIO_URL]" target="_blank">
+<a href="http://parijatdutta00.ct.ws" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4285F4" alt="Portfolio" />
 </a>
 
@@ -58,33 +58,40 @@
 ```javascript
 const parijat = {
   pronouns: "He" | "Him",
+  education: "B.Tech CSE (AI & ML)",
+  institute: "Narula Institute of Technology",
+  location: "Begampur, Hooghly, West Bengal",
   code: ["JavaScript", "TypeScript", "Python", "PHP", "Java"],
-  askMeAbout: ["web dev", "AI/ML", "tech", "app dev"],
+  askMeAbout: ["web dev", "AI/ML", "tech", "full stack"],
   technologies: {
     frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["Tailwind", "Bootstrap"],
+      js: ["React.js"],
+      css: ["Tailwind", "CSS3", "HTML5"],
+      cms: ["WordPress"],
     },
     backEnd: {
       python: ["Django"],
-      php: ["WordPress"],
+      php: ["Core PHP"],
       js: ["Node.js"],
     },
-    databases: ["MySQL", "MongoDB"],
+    databases: ["MySQL"],
     cloudServices: ["Google Cloud Platform"],
-    misc: ["Docker", "Git", "Postman"],
+    tools: ["Docker", "Git", "Postman", "VS Code"],
   },
-  currentFocus: "Building scalable full-stack applications",
-  funFact: "I debug with console.log() more than I'd like to admit!",
+  currentFocus: "Building scalable AI-powered applications",
+  funFact: "I solve real-world problems with innovative programming!",
+  cgpa: "7.8",
+  languages: ["English (Fluent)", "Hindi (Proficient)"],
 };
 ```
 
 <br>
 
-🎓 **B.Tech CSE (AI & ML)** student passionate about building **full-stack solutions**  
+🎓 **B.Tech CSE (AI & ML)** student at **Narula Institute of Technology**  
 💡 Experienced in developing **responsive web applications** with modern stacks  
-🚀 Focused on solving **real-world problems** through clean code and innovative approaches  
-🌱 Currently learning **advanced cloud architectures** and **machine learning algorithms**
+🚀 Focused on solving **real-world problems** through clean, scalable code  
+🌱 Currently mastering **cloud architectures** and **machine learning algorithms**  
+🏆 **CGPA: 7.8** | Passionate about **innovation** and **technology**
 
 <br>
 
@@ -101,32 +108,34 @@ const parijat = {
 
 ### 🏢 Full Stack Developer
 
-**[School Website]([SCHOOL_WEBSITE_LINK])**  
+**[School Website](http://begampurhighschool.com/)**  
 📅 Aug 2023 - Sep 2023  
 🛠️ `WordPress` `PHP` `MySQL`
 
 **Key Achievements:**
 
-- ✨ Developed responsive site with custom admin panel
-- 📊 Integrated dynamic content modules (notices/results/gallery)
-- 👥 Created user-friendly CMS for non-technical staff
-- 🚀 Improved site performance by 40%
+- ✨ Developed responsive school website with **custom admin panel**
+- 📊 Integrated **dynamic content modules** (notices/results/gallery)
+- 👥 Created **user-friendly CMS** for non-technical staff
+- 🚀 Ensured **seamless content management** functionality
+- 📱 Implemented **mobile-responsive** design
 
 </td>
 <td width="50%">
 
 ### 💻 Web Developer
 
-**[NGO Consultancy Website]([NGO_WEBSITE_LINK])**  
+**[NGO Consultancy Website](http://porasonarduniya.in/)**  
 📅 Jun 2023 - Jul 2023  
 🛠️ `WordPress` `PHP`
 
 **Key Achievements:**
 
-- 🌐 Built service-oriented website
-- ⚙️ Developed custom admin panel
-- 📝 Implemented content management system
-- 📱 Enhanced mobile responsiveness
+- 🌐 Built **service-oriented website** for NGO consultancy
+- ⚙️ Developed **custom admin panel** for content management
+- 📝 Implemented comprehensive **CMS backend**
+- 🎯 Enhanced **user experience** and navigation
+- 📊 Created **service management** modules
 
 </td>
 </tr>
@@ -162,7 +171,7 @@ const parijat = {
 <div align="center">
 
 <!-- Tech Stats -->
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Most%20Used%20Languages&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=JavaScript,js,25;TypeScript,ts,20;Python,python,18;&line2=PHP,php,15;HTML,html,12;CSS,css,10;&line3=" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Expertise&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=JavaScript,js,25;Python,python,20;PHP,php,18;&line2=React,react,15;MySQL,mysql,12;TypeScript,ts,10;&line3=" />
 
 </div>
 
@@ -184,21 +193,21 @@ const parijat = {
 </tr>
 <tr>
 <td><strong>B.Tech in CSE (AI & ML)</strong></td>
-<td>Narula Institute of Technology</td>
-<td>2022 - 2026</td>
+<td>Narula Institute of Technology, Kolkata</td>
+<td>Jul 2022 - Jul 2026</td>
 <td><img src="https://img.shields.io/badge/CGPA-7.8-brightgreen?style=flat-square&logo=academia&logoColor=white"/></td>
 </tr>
 <tr>
 <td><strong>Higher Secondary</strong></td>
 <td>Begampur High School</td>
-<td>2020 - 2022</td>
-<td><img src="https://img.shields.io/badge/Score-90%25-brightgreen?style=flat-square&logo=academia&logoColor=white"/></td>
+<td>Mar 2020 - Mar 2022</td>
+<td><img src="https://img.shields.io/badge/Grade-90.00%25-brightgreen?style=flat-square&logo=academia&logoColor=white"/></td>
 </tr>
 <tr>
 <td><strong>Secondary</strong></td>
 <td>Begampur High School</td>
-<td>2020</td>
-<td><img src="https://img.shields.io/badge/Score-74%25-green?style=flat-square&logo=academia&logoColor=white"/></td>
+<td>Mar 2020</td>
+<td><img src="https://img.shields.io/badge/Grade-74.00%25-green?style=flat-square&logo=academia&logoColor=white"/></td>
 </tr>
 </table>
 
@@ -217,7 +226,7 @@ const parijat = {
 <tr>
 <td width="50%">
 
-<h3 align="center">🌟 My Portfolio</h3>
+<h3 align="center">🌟 Personal Portfolio</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -230,10 +239,11 @@ const parijat = {
 - 🎨 Modern responsive design
 - ⚡ Lightning fast performance
 - 📱 Mobile-first approach
+- 🔧 TypeScript integration
 
 <div align="center">
-<a href="[PORTFOLIO_LINK]"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-37a779?style=for-the-badge"/></a>
-<a href="[PORTFOLIO_GITHUB_LINK]"><img src="https://img.shields.io/badge/📁%20Source%20Code-2ea043?style=for-the-badge"/></a>
+<a href="http://parijatdutta00.ct.ws"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-37a779?style=for-the-badge"/></a>
+<a href="https://github.com/parijatdutta/portfolio"><img src="https://img.shields.io/badge/📁%20Source%20Code-2ea043?style=for-the-badge"/></a>
 </div>
 
 </td>
@@ -250,12 +260,13 @@ const parijat = {
 **Features:**
 
 - 📋 Seamless booking system
-- 💳 Payment integration
-- 📊 Admin dashboard
+- 🎨 Shadcn UI components
+- 📊 Modern React architecture
+- ⚡ Vite build optimization
 
 <div align="center">
-<a href="[BOOKING_APP_LINK]"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-37a779?style=for-the-badge"/></a>
-<a href="[BOOKING_APP_GITHUB_LINK]"><img src="https://img.shields.io/badge/📁%20Source%20Code-2ea043?style=for-the-badge"/></a>
+<a href="http://justaskit.in"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-37a779?style=for-the-badge"/></a>
+<a href="https://github.com/parijatdutta/service-booking"><img src="https://img.shields.io/badge/📁%20Source%20Code-2ea043?style=for-the-badge"/></a>
 </div>
 
 </td>
@@ -268,18 +279,18 @@ const parijat = {
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-**🏆 JIS College Competition Project**  
-`PHP` `MySQL` `JavaScript`  
-[🌐 Demo]([JIS_PROJECT1_LINK]) | [📁 Source]([JIS_PROJECT1_GITHUB_LINK])
+**🏆 JIS College Competition Project 1**  
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`  
+[🌐 Demo](http://jisgepo.lovestoblog.com) | [📁 Source](https://github.com/parijatdutta/jis-project-1)
 
 </td>
-<td>
+<td width="50%">
 
-**🤖 IoT Water Tank Management**  
-`Arduino` `Sensors` `IoT`  
-[📄 Documentation]([IOT_CERT_LINK])
+**🏆 JIS College Competition Project 2**  
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`  
+[🌐 Demo](http://jistesting.lovestoblog.com) | [📁 Source](https://github.com/parijatdutta/jis-project-2)
 
 </td>
 </tr>
@@ -302,20 +313,20 @@ const parijat = {
 <tr>
 <td align="center" width="33%">
 
-🏆 **IoT Smart Water Tank**  
-[<img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>]([IOT_CERT_LINK])
+🤖 **IoT Smart Water Tank**  
+[<img src="https://img.shields.io/badge/Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>](https://drive.google.com/file/d/1r-BBwJ5OLe3mMwhKqI8tyOd9fiXdUxHt/view)
 
 </td>
 <td align="center" width="33%">
 
 🐍 **Python with Django**  
-[<img src="https://img.shields.io/badge/Certificate-092E20?style=for-the-badge&logo=django&logoColor=white"/>]([DJANGO_CERT_LINK])
+[<img src="https://img.shields.io/badge/Certificate-092E20?style=for-the-badge&logo=django&logoColor=white"/>](https://drive.google.com/file/d/1lZMPWs_u0Q91R0whCM-sO5nmCT6RaJ-P/view)
 
 </td>
 <td align="center" width="33%">
 
 ☕ **Java Programming**  
-[<img src="https://img.shields.io/badge/Certificate-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>]([JAVA_CERT_LINK])
+[<img src="https://img.shields.io/badge/Certificate-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>](https://drive.google.com/file/d/1G0gFKlc8W3XVzDgPXQDETb7rqm4Z0fj-/view)
 
 </td>
 </tr>
@@ -323,17 +334,19 @@ const parijat = {
 <td align="center" width="50%">
 
 🤖 **Fundamentals of AI**  
-[<img src="https://img.shields.io/badge/Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>]([AI_CERT_LINK])
+[<img src="https://img.shields.io/badge/Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>](https://drive.google.com/file/d/1L7vQ0PW5z-D_SiHC0HUBwxjh4qKxbx-v/view)
 
 </td>
 <td align="center" width="50%">
 
 ☁️ **Google Cloud Platform**  
-[<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>]([GOOGLE_CLOUD_LINK])
+[<img src="https://img.shields.io/badge/GCP%20Profile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>](https://www.cloudskillsboost.google/public_profiles/96f211ab-030a-477b-8f00-19a3b5a36289)
 
 </td>
 </tr>
 </table>
+
+**Google Cloud Skills:** Compute Engine • IAM • BigQuery • Kubernetes
 
 </div>
 
@@ -346,20 +359,20 @@ const parijat = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parijatdutta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parijatdutta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=parijatdutta&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&custom_title=Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parijatdutta&custom_title=Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&theme=react-dark"/>
 
 </div>
 
@@ -367,7 +380,7 @@ const parijat = {
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=parijatdutta&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 
 </div>
 
@@ -376,7 +389,19 @@ const parijat = {
 <!-- Profile Views Counter -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=for-the-badge&color=red"/>
+<img src="https://komarev.com/ghpvc/?username=parijatdutta&style=for-the-badge&color=red"/>
+
+</div>
+
+<br>
+
+<!-- Languages Spoken -->
+<div align="center">
+
+### 🌐 Languages
+
+<img src="https://img.shields.io/badge/English-Fluent-success?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hindi-Proficient-blue?style=for-the-badge&logo=googletranslate&logoColor=white"/>
 
 </div>
 
@@ -393,7 +418,7 @@ const parijat = {
 
 ### 💫 Let's Connect and Build Something Amazing Together!
 
-**"The best way to predict the future is to create it."**
+**"Enthusiastic and self-motivated, solving real-world problems through innovative programming."**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
